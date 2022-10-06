@@ -1,5 +1,5 @@
 [
-	"todos": [{
+	{
 		"id": 1,
 		"todo": "Do something nice for someone I care about",
 		"completed": true,
@@ -149,8 +149,5 @@
 		"todo": "Take cat on a walk",
 		"completed": false,
 		"userId": 15
-	}],
-	"total": 150,
-	"skip": 0,
-	"limit": 30
+	}
 ]
